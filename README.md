@@ -9,10 +9,12 @@
 # 예시 사진
 
 1. 홈 화면
-![1  home](https://github.com/apple6356/GraduateProjectWeb/assets/79889755/10a1c8b1-5ce9-4f38-a9b9-7a6c84012edd)
+![image](https://github.com/apple6356/GraduateProjectWeb/assets/79889755/623b374d-1d76-49c1-90e5-35994df38c84)
+
 
 2. 게시판 화면
-![3  bbs](https://github.com/apple6356/GraduateProjectWeb/assets/79889755/fea14aa8-51b7-4863-94c4-c21212498207)
+![image](https://github.com/apple6356/GraduateProjectWeb/assets/79889755/63c010c8-794b-484b-9c8d-ea0524cab3c6)
+
 
 3. 로드맵 화면
-![6  map](https://github.com/apple6356/GraduateProjectWeb/assets/79889755/6cd5b7e3-da33-4717-b195-1e17a6205d42)
+![image](https://github.com/apple6356/GraduateProjectWeb/assets/79889755/28f6bf03-c8b2-4358-b507-b3cafe92c5a0)
