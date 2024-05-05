@@ -6,8 +6,8 @@
 
 # 개발 환경
 
-java, jsp, javascript, html, css, mysql
-eclipse enterprise 사용해 개발
+java, jsp, javascript, html, css, mysql.
+eclipse enterprise 사용해 개발.
 
 # 설명
 
