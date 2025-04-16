@@ -22,7 +22,7 @@ eclipse enterprise 사용해 개발
 
 
 
-# 예시 사진
+# 화면 사진
 
 1. 홈 화면
 ![image](https://github.com/apple6356/GraduateProjectWeb/assets/79889755/623b374d-1d76-49c1-90e5-35994df38c84)
